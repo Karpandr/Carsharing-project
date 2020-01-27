@@ -1,0 +1,17 @@
+F:\Андрей new\3 курс\Проектирование\Курсовая\Carsharing\Carsharing\bin\Debug\Carsharing.exe.config
+F:\Андрей new\3 курс\Проектирование\Курсовая\Carsharing\Carsharing\bin\Debug\Carsharing.exe
+F:\Андрей new\3 курс\Проектирование\Курсовая\Carsharing\Carsharing\bin\Debug\Carsharing.pdb
+F:\Андрей new\3 курс\Проектирование\Курсовая\Carsharing\Carsharing\obj\Debug\Carsharing.csprojAssemblyReference.cache
+F:\Андрей new\3 курс\Проектирование\Курсовая\Carsharing\Carsharing\obj\Debug\Carsharing.General.resources
+F:\Андрей new\3 курс\Проектирование\Курсовая\Carsharing\Carsharing\obj\Debug\Carsharing.Properties.Resources.resources
+F:\Андрей new\3 курс\Проектирование\Курсовая\Carsharing\Carsharing\obj\Debug\Carsharing.csproj.GenerateResource.cache
+F:\Андрей new\3 курс\Проектирование\Курсовая\Carsharing\Carsharing\obj\Debug\Carsharing.csproj.CoreCompileInputs.cache
+F:\Андрей new\3 курс\Проектирование\Курсовая\Carsharing\Carsharing\obj\Debug\Carsharing.exe
+F:\Андрей new\3 курс\Проектирование\Курсовая\Carsharing\Carsharing\obj\Debug\Carsharing.pdb
+F:\Андрей new\3 курс\Проектирование\Курсовая\Carsharing\Carsharing\obj\Debug\Carsharing.EnterWin.resources
+F:\Андрей new\3 курс\Проектирование\Курсовая\Carsharing\Carsharing\obj\Debug\Carsharing.Registration.resources
+F:\Андрей new\3 курс\Проектирование\Курсовая\Carsharing\Carsharing\obj\Debug\Carsharing.Cars.resources
+F:\Андрей new\3 курс\Проектирование\Курсовая\Carsharing\Carsharing\obj\Debug\Carsharing.Rent.resources
+F:\Андрей new\3 курс\Проектирование\Курсовая\Carsharing\Carsharing\obj\Debug\Carsharing.Ride.resources
+F:\Андрей new\3 курс\Проектирование\Курсовая\Carsharing\Carsharing\obj\Debug\Carsharing.End.resources
+F:\Андрей new\3 курс\Проектирование\Курсовая\Carsharing\Carsharing\bin\Debug\Carsharing.accdb
